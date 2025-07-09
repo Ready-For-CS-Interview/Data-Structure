@@ -7,19 +7,27 @@
 
 ## 1. 기본 자료구조
 
+## 1. 기본 자료구조
+
 <details>
 <summary>1-1. Array & Linked list</summary>
-[Array & Linked list 정리글](https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Array-Linked-List)
+<a href="https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Array-Linked-List" target="_blank">
+Array & Linked list 정리글
+</a>
 </details>
 
 <details>
 <summary>1-2. Stack & Queue & Deque</summary>
-[Stack & Queue & Deque 정리글](https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Stack-Queue-Deque)
+<a href="https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Stack-Queue-Deque" target="_blank">
+Stack & Queue & Deque 정리글
+</a>
 </details>
 
 <details>
 <summary>1-3. Hash</summary>
-[Hash 정리글](https://velog.io/@jywon/그래프와-해시)
+<a href="https://velog.io/@jywon/그래프와-해시" target="_blank">
+Hash 정리글
+</a>
 </details>
 
 ---
@@ -28,17 +36,23 @@
 
 <details>
 <summary>2-1. Tree</summary>
-[Tree 정리글](link 올려주세요)
+<a href="링크를-여기에-넣어주세요" target="_blank">
+Tree 정리글
+</a>
 </details>
 
 <details>
 <summary>2-2. Graph</summary>
-[Graph 정리글](https://velog.io/@jywon/그래프와-해시)
+<a href="https://velog.io/@jywon/그래프와-해시" target="_blank">
+Graph 정리글
+</a>
 </details>
 
 <details>
 <summary>2-3. Red Black Tree / B Tree / B+ Tree</summary>
-[Red Black Tree / B Tree / B+ Tree 정리글](https://velog.io/@geooeg/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Red-Black-Tree-B-Tree-B-Tree)
+<a href="https://velog.io/@geooeg/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Red-Black-Tree-B-Tree-B-Tree" target="_blank">
+Red Black Tree / B Tree / B+ Tree 정리글
+</a>
 </details>
 
 
