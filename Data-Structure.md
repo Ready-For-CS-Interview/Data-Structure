@@ -1,10 +1,13 @@
 # Data-Structure
 
+---
+
 ## Index
 1. [기본 자료구조](#1-기본-자료구조)
 2. [Tree & Graph](#2-tree--graph)
 3. [질문 및 답변](#3-질문-및-답변)
 
+---
 
 ## 1. 기본 자료구조
 
@@ -54,6 +57,7 @@ Red Black Tree / B Tree / B+ Tree 정리글
 </a>
 </details>
 
+---
 
 ## 3. 질문 및 답변
 <details>
