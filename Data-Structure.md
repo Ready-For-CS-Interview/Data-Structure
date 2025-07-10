@@ -38,7 +38,7 @@ Hash 정리글
 
 <details>
 <summary>2-1. Tree</summary>
-<a href="링크를-여기에-넣어주세요" target="_blank">
+<a href="https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Tree" target="_blank">
 Tree 정리글
 </a>
 </details>
